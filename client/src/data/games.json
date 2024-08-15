@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Zelda",
+      "description": "Es un juego muy entretenido y de ciencia ficción.",
+      "image": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/5b92d766-83a9-46bf-85ef-8b8485bdd80f.c73aff9cf71049353c575d837c23c42c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "created_at": "11/06/2024"
+    },
+    {
+      "id": "2",
+      "title": "Mario",
+      "description": "Es un juego muy entretenido y para niños.",
+      "image": "https://i5.walmartimages.com.mx/mg/gm/1p/images/product-images/img_large/00004549659074l.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "created_at": "11/06/2024"
+    },
+    {
+      "id": "3",
+      "title": "Persia",
+      "description": "Es un juego muy violento y no para niños.",
+      "image": "https://th.bing.com/th?id=OIP.I5bCzViYHlcL_9xg2sYRnwAAAA&w=110&h=110&c=7&rs=1&qlt=80&pcl=f9f9f9&o=6&cdv=1&dpr=1.7&pid=18.2",
+      "created_at": "12/06/2024"
+    },
+    {
+      "id": 0,
+      "title": "Me estoy Durmiendo",
+      "description": "Tengo hambre y la glucosa",
+      "image": "https://th.bing.com/th/id/R.4714aedc202c4efd4e07e37b44da8161?rik=40kBxrItht5uJg&riu=http%3a%2f%2fwww.safecare.com%2fwp-content%2fblogs.dir%2f13%2ffiles%2f2017%2f12%2fSleep.jpg&ehk=ZQ%2b5UlpvzgdJkuiRayDa6RoCXa306VU3rvWXwDRFT8I%3d&risl=&pid=ImgRaw&r=0",
+      "created_at": "2024-06-18T21:08:39.735Z"
+    }
+  ]
+}
